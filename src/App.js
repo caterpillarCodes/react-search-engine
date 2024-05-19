@@ -68,7 +68,7 @@ export default function App() {
           <a href="https://github.com/caterpillarCodes/react-search-engine">
             open-sourced
           </a>
-          on Github and hosted on Vercel
+          &nbsp on Github and hosted on Vercel
         </p>
       </div>
     );
