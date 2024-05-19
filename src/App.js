@@ -63,6 +63,13 @@ export default function App() {
           />
           <input type="submit" value={"Search"} />
         </form>
+        <p>
+          This project was coded by caterpillarCodes, is{" "}
+          <a href="https://github.com/caterpillarCodes/react-search-engine">
+            open-sourced
+          </a>
+          on Github and hosted on Vercel
+        </p>
       </div>
     );
 }
